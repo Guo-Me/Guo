@@ -1,3 +1,7 @@
 this is my first git, I will study hard in git.
 
+<<<<<<< HEAD
 第一次提交！！
+=======
+long long long
+>>>>>>> eddbf39035bfe423f3a5ab14dc4332227219e1f0
